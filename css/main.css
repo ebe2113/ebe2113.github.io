@@ -1,4 +1,9 @@
 
 h1{
   background-size: auto; 
+  color: #333;
+  font-family: 'Fjalla One', sans-serif;
+  padding: 4px;
+  font-size: 50px; 
+  letter-spacing:2px;
 }
