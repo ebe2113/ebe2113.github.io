@@ -1,9 +1,32 @@
 
-h1{
-  background-size: auto; 
+h1 {
   color: #333;
-  font-family: 'Noto Sans KR', sans-serif;
-  padding: 4px;
+  font-family: 'Roboto', sans-serif; 
   font-size: 50px; 
-  letter-spacing:2px;
+  letter-spacing:2px; 
+  position: absolute; 
+  right: 50%; 
+  top: 40%; 
+}
+
+mark{
+  background-color: #ccc
+}
+
+a{
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif; 
+  text-decoration: none;
+  letter-spacing:2px; 
+  position: absolute; 
+  left: 9%; 
+  top: 56%; 
+}
+
+.blue-circle a{
+  border-radius: 25px;
+  background: #9296A0;
+  padding: 10px; 
+  width: 140px;
+  height: px;
 }
