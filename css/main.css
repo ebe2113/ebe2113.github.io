@@ -15,9 +15,10 @@ mark{
 
 a{
   color: #FFFFFF;
+  font-size: 18px; 
   font-family: 'Roboto', sans-serif; 
   text-decoration: none;
-  letter-spacing:2px; 
+  letter-spacing:4px; 
   position: absolute; 
   left: 9%; 
   top: 34%; 
@@ -27,6 +28,6 @@ a{
   border-radius: 25px;
   background: #9296A0;
   padding: 10px; 
-  width: 140px;
+  width: 120px;
   height: px;
 }
